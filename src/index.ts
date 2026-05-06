@@ -1,9 +1,9 @@
 type GetObjectResult = {
-    v1: string
+    v2: string
 }
 
 export function getObject(): GetObjectResult {
     return {
-        v1: 'version 1'
+        v2: 'version 2'
     }
 }
