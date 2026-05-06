@@ -4,6 +4,6 @@ type GetObjectResult = {
 
 export function getObject(): GetObjectResult {
     return {
-        v2: 'version 2'
+        v2: 'version 2.0.1'
     }
 }
